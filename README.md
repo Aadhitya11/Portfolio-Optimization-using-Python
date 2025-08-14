@@ -21,4 +21,7 @@ This project applies **Modern Portfolio Theory** to construct efficient portfoli
 - Max-Sharpe portfolio outperformed equal-weight by **X% annualized return** with lower volatility.
 - Risk-parity portfolio reduced drawdowns by **Y%** vs equal-weight.
 
-## Repository Structure
+
+## References
+- Markowitz (1952) Portfolio Selection.
+
