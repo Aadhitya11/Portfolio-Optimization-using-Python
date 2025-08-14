@@ -1,4 +1,4 @@
-# Portfolio-Optimization-using-Python
+# Portfolio Optimization using Python
 
 ## Overview
 This project applies **Modern Portfolio Theory** to construct efficient portfolios from historical asset returns. It compares equal-weight, risk-parity, and maximum-Sharpe allocations under realistic constraints.
